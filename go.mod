@@ -3,7 +3,7 @@ module code-intelligence.com/cifuzz
 go 1.18
 
 require (
-	atomicgo.dev/keyboard v0.2.8
+	atomicgo.dev/keyboard v0.2.9
 	github.com/Masterminds/semver v1.5.0
 	github.com/alexflint/go-filemutex v1.2.0
 	github.com/gen2brain/beeep v0.0.0-20220909211152-5a9ec94374f6
@@ -15,7 +15,7 @@ require (
 	github.com/otiai10/copy v1.7.0
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
-	github.com/pterm/pterm v0.12.49
+	github.com/pterm/pterm v0.12.54
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.13.0
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
@@ -32,7 +32,7 @@ require (
 	github.com/lithammer/fuzzysearch v1.1.5 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	github.com/mattn/go-runewidth v0.0.13 // indirect
+	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
@@ -59,7 +59,7 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	golang.org/x/exp v0.0.0-20220414153411-bcd21879b8fd
 	golang.org/x/sys v0.0.0-20220915200043-7b5979e65e41
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.6.0
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1

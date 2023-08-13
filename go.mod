@@ -60,7 +60,7 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561
 	golang.org/x/sys v0.10.0
-	golang.org/x/text v0.11.0
+	golang.org/x/text v0.12.0
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1

@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/alexflint/go-filemutex v1.2.0
 	github.com/gen2brain/beeep v0.0.0-20220909211152-5a9ec94374f6
-	github.com/gookit/color v1.5.3
+	github.com/gookit/color v1.5.4
 	github.com/hectane/go-acl v0.0.0-20190604041725-da78bae5fc95
 	github.com/hokaccha/go-prettyjson v0.0.0-20211117102719-0474bc63780f
 	github.com/mattn/go-zglob v0.0.3
@@ -56,7 +56,7 @@ require (
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	github.com/subosito/gotenv v1.4.1 // indirect
 	golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561
 	golang.org/x/sys v0.10.0
